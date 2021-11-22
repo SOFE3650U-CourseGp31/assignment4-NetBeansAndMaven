@@ -14,7 +14,7 @@ Maven’s primary goal is to allow a developer to comprehend the complete state 
 leverages Maven and swing GUI interface. Follow the tutorial posted at 
 https://www.codejava.net/ides/netbeans/create-multi-module-maven-project-netbeans and make 
 certain that your code and results are uploaded to the GitHub repository.
-<p align="center"><img src="Question-1/Results Screenshots/Screenshot-(11).png" /></p>
+<p align="center"><img src="Question1/ResultsScreenshots/Screenshot(11).png" /></p>
 
 2) Now leverage what you learned from the tutorial to refactor the cash register application 
 that you wrote for assignment 3 and coded in NetBeans leveraging Maven. For this version of 
@@ -23,4 +23,4 @@ the main Use Case that captures the following scenario “A small stand-alone Ca
 to be designed that reads barcodes of products that a Customer has selected and when a product 
 has been identified, its name and price are displayed on a display. Use Java Swing to create 
 the display. You can simulate the scanner using a GUI input pane where you manually enter a UPC code.
-<p align="center"><img src="Question-2/Results-Screenshots/Question-2-Result-Screenshot.png" /></p>
+<p align="center"><img src="Question2/ResultsScreenshots/Question2ResultScreenshot.png" /></p>
